@@ -87,7 +87,7 @@
 			<div class="tarjeta" id="tarjeta">
 			<img src="tarjeta.png" alt="tarjeta">
 			<h4>Numero de Tarjeta</h4></div> 
-			<input  id="ntarjeta1" type="ntarjeta"  minlength="16" maxlength="19" name="tarjeta" placeholder="MasterCard One: **** **** **** 6182" value="" readonly required=>
+			<input  id="ntarjeta1" type="ntarjeta"  minlength="16" maxlength="19" name="tarjeta" placeholder="VISA: **** **** **** 6182" value="" readonly required=>
 			<br>
 			<br>
 			
